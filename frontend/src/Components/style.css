@@ -1,0 +1,11 @@
+.chatBox
+{
+	height :50vh;
+}
+
+.text
+{
+  display: inline-block; 
+  max-width: 60%;
+  word-wrap:break-word;
+}
